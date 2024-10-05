@@ -26,11 +26,11 @@
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind logo" title="ClickUp" height="30" />
   <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" />
    <img src="https://img.shields.io/badge/React JS-282C34?logo=react&logoColor=61DAFB" alt="React JS logo" title="React JS" height="30" />
-    <img src="  https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="React JS logo" title="React JS" height="30" />
+    <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="React JS logo" title="React JS" height="30" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js logo" title="Next.js" height="30" />
   <img src=" https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20token" alt="Next.js logo" title="Next.js" height="30" />
   <img src="https://img.shields.io/badge/React%20Native-v0.74-blue?logo=react" alt="React Native logo" title="React Native" height="30" />
-  <img src="  https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="Redux logo" title="Redux" height="30" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="Redux logo" title="Redux" height="30" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="typescript logo" title="typescript" height="30" />
   <img src="https://img.shields.io/badge/React_Query-FF4154?logo=react-query&logoColor=white" alt="React Query logo" title="React Query" height="30" />
   <img src="https://img.shields.io/badge/Node.js-v14.17.0-green?logo=node.js" alt="Node JS logo" title="Node JS" height="30" />
