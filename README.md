@@ -56,7 +56,7 @@
 
   <img src="https://img.shields.io/badge/ClickUp-7C3AED?logo=clickup&logoColor=white" alt="ClickUp logo" title="ClickUp" height="30" />
   <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" />
-  <img src=" https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" />
 </div>
 
 ## 📫 Say Hi
