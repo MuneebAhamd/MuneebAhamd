@@ -39,7 +39,6 @@
   <img src="https://img.shields.io/badge/Express-v4.17.1-blue?logo=express" alt="Node JS logo" title="Node JS" height="30" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="30" />
 <img src="https://img.shields.io/badge/MobX-FF9955?logo=mobx&logoColor=white" alt="MobX logo" title="MobX" height="30" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase logo" title="Firebase" height="30" />
 
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Redux logo" title="Redux" height="30" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white" alt="GitLab logo" title="GitLab" height="30" />
